@@ -1,3 +1,11 @@
+"""
+Made by Gainsboroow 
+Github account : https://github.com/Gainsboroow
+Github repository : https://github.com/Gainsboroow/Koch-Snowflake
+
+Right click to display the next step.
+"""
+
 import pygame
 from math import *
 from pygame.locals import *
